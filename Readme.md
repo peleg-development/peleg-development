@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://google.com/)
-<h1 align="center">Ayo, I'm Liad 👋</h1>
+<h1 align="center">Ay, I am Liad</h1>
 <h3 align="center">#Here_To_Enjoy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peleg-development&label=Profile%20views&color=0e75b6&style=flat" alt="peleg-development" /> </p>
 
