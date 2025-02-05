@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [SecureServe](https://github.com/peleg-development/SecureServe-AC)
 
-- 🌱 I’m currently learning **C++ QT, C++ OpenGL**
+- 🌱 I’m currently learning **QT, OpenGL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
