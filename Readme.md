@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://google.com/)
+![image](https://github.com/user-attachments/assets/f5954ef0-3053-4daa-8412-64d464250122)
 <h1 align="center">Hi 👋, I'm Peleg</h1>
 <h3 align="center">A passionate frontend and backend developer from Israel</h3>
 
