@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [SecureServe](https://github.com/peleg-development/SecureServe-AC)
 
-- 🌱 I’m currently learning **QT, OpenGL**
+- 🌱 I’m currently learning **DirectX11 DirectX12**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,3 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peleg-development&show_icons=true&locale=en&theme=github_dark" alt="peleg-development" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peleg-development&theme=github_dark" alt="peleg-development" /></p>
+
