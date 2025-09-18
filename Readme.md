@@ -4,7 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peleg-development&label=Profile%20views&color=0e75b6&style=flat" alt="peleg-development" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peleg-development&theme=onestar" alt="peleg-development" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=peleg-development&theme=onestar&title=-Reviews" alt="peleg-development" />
+  </a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -56,6 +60,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peleg-development&theme=github_dark" alt="peleg-development streak" height="180" />
 </div>
+
 
 
 
