@@ -41,14 +41,6 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-
-  Extra:
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-  </a>
 </p>
 
 
@@ -57,6 +49,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peleg-development&show_icons=true&locale=en&theme=github_dark" alt="peleg-development" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peleg-development&theme=github_dark" alt="peleg-development" /></p>
+
 
 
 
