@@ -12,6 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<div align="center">
+
+[![Support Discord](https://img.shields.io/badge/Support%20Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZVWbpqfYj5)
+[![Tebex Store](https://img.shields.io/badge/Tebex%20Store-111111)](https://peleg-development.tebex.io/)
+
+</div>
+
 - 🔭 I’m currently working on [SecureServe](https://github.com/peleg-development/SecureServe-AC)
 
 - 🌱 I’m currently learning **DirectX11 DirectX12**
@@ -60,6 +67,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peleg-development&theme=github_dark" alt="peleg-development streak" height="180" />
 </div>
+
 
 
 
